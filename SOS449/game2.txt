@@ -1,0 +1,5 @@
+Move: S at (0, 0)
+Move: S at (0, 3)
+Move: O at (1, 1)
+Move: O at (1, 3)
+Move: S at (2, 2)
